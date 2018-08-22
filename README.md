@@ -17,7 +17,7 @@ The website offers fully fledged registering system. On top just registering and
 
 The ticket system made mainly to help users in trouble to have a quick way to get an answer from the staff.
 
-![alt text](https://kjeh.fi/IdNsp)
+![alt text](https://kjeh.fi/IdNsp | width=200)
 
 
 
