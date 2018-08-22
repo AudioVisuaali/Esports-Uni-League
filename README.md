@@ -10,6 +10,8 @@ Unfortunately I'm not allowed to share the code, but here are the main higlights
 
 ## Features on the website
 
+Before you take a look under the hood check out the website first and the sections that you can see as a visitor
+
 ### Login/Register system
 
 The website offers fully fledged registering system. On top just registering and hacing sessions the moderators can decide who to accept and who to deny before you using the system based on their registration information.
