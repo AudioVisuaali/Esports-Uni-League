@@ -30,10 +30,24 @@ Here the user controls his information. The user can change their username, bio,
 
 <img src="https://kjeh.fi/VYfxZ" data-canonical-src="https://kjeh.fi/VYfxZ" width="400"/>
 
+### Account linking with discord
+
+The website also has a function to connect with discord. This is done to identify the user in the discord server.
+
+### Team creation system
+
+The website allows you to create teams to compete
+
+<img src="https://kjeh.fi/HZkEZ" data-canonical-src="https://kjeh.fi/HZkEZ" width="400"/>
 
 
-- Account linking with discord
-- Invitation system
+### Invitation system
+
+Invitation system allows people to join different teams.
+
+<img src="https://kjeh.fi/urVfK" data-canonical-src="https://kjeh.fi/urVfK" width="400"/>
+
+
 - Team creation system
 - Event system
 - Fully fledged permission system
