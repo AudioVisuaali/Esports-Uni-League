@@ -47,10 +47,18 @@ Invitation system allows people to join different teams.
 
 <img src="https://kjeh.fi/urVfK" data-canonical-src="https://kjeh.fi/urVfK" width="400"/>
 
+### Event system
 
-- Team creation system
-- Event system
-- Fully fledged permission system
+Event system allows admins to create events for the users to join.
+Settings include: type(single/multi), name, introduction, indepth text, starting & ending time
+
+<img src="https://kjeh.fi/AqeSb" data-canonical-src="https://kjeh.fi/AqeSb" width="400"/>
+
+### Fully fledged permission system
+
+Website is running on a fully fledged permission system. This allows admins to have full control of what a user is allowed to do.
+
+<img src="https://kjeh.fi/HQFNW" data-canonical-src="https://kjeh.fi/HQFNW" width="400"/>
 
 Upcoming features:
 
