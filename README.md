@@ -66,6 +66,7 @@ Upcoming features:
 
 - News
 - Dynamic privacy policy modification tool
+- More options to the social tab
 - Controlling bot to performs actions on the discord server from the web-ui 
 - Dynamic streaming overlay for stream with multiple scenes
 
