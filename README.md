@@ -6,6 +6,8 @@ Esports Uni League is a collegiate gaming organisation established in 2018. The 
 When creating this website I had two goals in my mind. Those were and still are good looking, well scaling and simple to use user UI.
 Currently the website fully scales on all mobile devices and doesn't lose any functionality while doing so.
 
+Unfortunately I'm not allowed to share the code, but here are the main higlights from the website
+
 ## Features on the website
 
 ### Login/Register system
