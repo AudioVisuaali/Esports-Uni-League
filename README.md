@@ -13,18 +13,21 @@ The website offers fully fledged registering system. On top just registering and
 ### Ticket system
 
 The ticket system made mainly to help users in trouble to have a quick way to get an answer from the staff.
+
 <img src="https://kjeh.fi/Gfxmd" data-canonical-src="https://kjeh.fi/Gfxmd" width="400"/>
 
 
 ### Frequently asked
 
 This section is made to comply repetitive question asked by the community. These sections can be removed, added and modified in the admin section 
+
 <img src="https://kjeh.fi/nXnos" data-canonical-src="https://kjeh.fi/nXnos" width="400"/>
 
 
 ### Modifying your profile
 
 Here the user controls his information. The user can change their username, bio, profile picture, siege settings and more.
+
 <img src="https://kjeh.fi/VYfxZ" data-canonical-src="https://kjeh.fi/VYfxZ" width="400"/>
 
 
