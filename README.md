@@ -14,7 +14,7 @@ Before you take a look under the hood check out the website first and the sectio
 
 ### Login/Register system
 
-The website offers fully fledged registering system. On top just registering and hacing sessions the moderators can decide who to accept and who to deny before you using the system based on their registration information.
+The website offers fully fledged registering system. On top just registering and having sessions the moderators can decide who to accept and who to deny before you using the system based on their registration information.
  
 ### Ticket system
 
