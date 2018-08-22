@@ -18,7 +18,7 @@ The website offers fully fledged registering system. On top just registering and
 
 The ticket system made mainly to help users in trouble to have a quick way to get an answer from the staff.
 
-<img src="https://kjeh.fi/Gfxmd" data-canonical-src="https://kjeh.fi/Gfxmd" width="400"/>
+<img src="https://kjeh.fi/BvqAP" data-canonical-src="https://kjeh.fi/BvqAP" width="400"/>
 
 
 ### Frequently asked
