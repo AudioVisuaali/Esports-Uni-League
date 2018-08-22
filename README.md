@@ -1,9 +1,6 @@
 # Esports-Uni-League
 Esports Uni League is a collegiate gaming organisation established in 2018. The website is wullstack and made by me
 
-
-![alt text](https://kjeh.fi/IdNsp)
-
 When creating this website I had two goals in my mind. Those were and still are good looking, well scaling and simple to use user UI.
 Currently the website fully scales on all mobile devices and doesn't lose any functionality while doing so.
 
@@ -16,8 +13,7 @@ The website offers fully fledged registering system. On top just registering and
 ### Ticket system
 
 The ticket system made mainly to help users in trouble to have a quick way to get an answer from the staff.
-
-![alt text](https://kjeh.fi/IdNsp | width=230)
+<img src="https://kjeh.fi/IdNsp" data-canonical-src="https://kjeh.fi/IdNsp" width="400"/>
 
 
 
