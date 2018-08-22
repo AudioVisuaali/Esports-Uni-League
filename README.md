@@ -16,9 +16,12 @@ The ticket system made mainly to help users in trouble to have a quick way to ge
 <img src="https://kjeh.fi/IdNsp" data-canonical-src="https://kjeh.fi/IdNsp" width="400"/>
 
 
+### Frequently asked
+
+This section is made to comply repetitive question asked by the community. These sections can be removed, added and modified in the admin section 
+<img src="https://kjeh.fi/nXnos" data-canonical-src="https://kjeh.fi/nXnos" width="400"/>
 
 
-- Ticket system
 - Q&A system
 - Own profile
 - Account linking with discord
