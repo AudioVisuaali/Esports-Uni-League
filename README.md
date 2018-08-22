@@ -12,6 +12,10 @@ Unfortunately I'm not allowed to share the code, but here are the main higlights
 
 Before you take a look under the hood check out the website first and the sections that you can see as a visitor
 
+<img src="https://kjeh.fi/kaWZH" data-canonical-src="https://kjeh.fi/kaWZH" width="400"/>
+
+[Esports Uni League](https://www.esportsunileague.com/) 
+
 ### Login/Register system
 
 The website offers fully fledged registering system. On top just registering and having sessions the moderators can decide who to accept and who to deny before you using the system based on their registration information.
