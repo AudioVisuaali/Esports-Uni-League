@@ -1,5 +1,5 @@
 # Esports-Uni-League
-Esports Uni League is a collegiate gaming organisation established in 2018. The website is wullstack and made by Audiovisuaali.
+Esports Uni League is a collegiate gaming organisation established in 2018. The website is fullstack and made by Audiovisuaali.
 
 [Esports Uni League](https://www.esportsunileague.com/) - Website
 
