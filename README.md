@@ -11,7 +11,7 @@ Unfortunately I'm not allowed to share the code, but here are the main higlights
 Before you take a look under the hood check out the website first and the sections that you can see as a visitor
 
 
-<img src="https://imgur.com/Bqa4IXn" data-canonical-src="https://imgur.com/Bqa4IXn" width="400"/>
+<img src="https://kjeh.fi/CfMyO" data-canonical-src="https://kjeh.fi/CfMyO" width="400"/>
 
 
 ### Login/Register system
