@@ -25,13 +25,13 @@ Before you take a look under the hood check out the website first and the sectio
 The website offers fully fledged registering system. On top just registering and having sessions the moderators can decide who to accept and who to deny before you using the system based on their registration information.
 This form also offers incredible precision with animations and information confirmation.
 
-<img src="https://kjeh.fi/nLtXA" data-canonical-src="https://kjeh.fi/xeamo" width="400"/>
+<img src="https://kjeh.fi/nLtXA" data-canonical-src="https://kjeh.fi/nLtXA" width="400"/>
  
 ### Ticket system
 
 The ticket system made mainly to help users in trouble to have a quick way to get an answer from the staff.
 
-<img src="https://kjeh.fi/BvqAP" data-canonical-src="https://kjeh.fi/BvqAP" width="400"/>
+<img src="https://kjeh.fi/OsOve" data-canonical-src="https://kjeh.fi/OsOve" width="400"/>
 
 
 ### Frequently asked
