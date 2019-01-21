@@ -38,7 +38,7 @@ The ticket system made mainly to help users in trouble to have a quick way to ge
 
 This section is made to comply repetitive question asked by the community. These sections can be removed, added and modified in the admin section. Questions are sorted by the amount of upvotes they get so the most useful ones are at the top!
 
-<img src="https://kjeh.fi/nXnos" data-canonical-src="https://kjeh.fi/nXnos" width="400"/>
+<img src="https://kjeh.fi/tytTw" data-canonical-src="https://kjeh.fi/tytTw" width="400"/>
 
 
 ### Modifying your profile
