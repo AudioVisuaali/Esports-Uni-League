@@ -45,7 +45,7 @@ This section is made to comply repetitive question asked by the community. These
 
 Here the user controls his information. The user can change their username, bio, profile picture, siege settings and more.
 
-<img src="https://kjeh.fi/VYfxZ" data-canonical-src="https://kjeh.fi/VYfxZ" width="400"/>
+<img src="https://kjeh.fi/dNlQd" data-canonical-src="https://kjeh.fi/dNlQd" width="400"/>
 
 ### Account linking with discord
 
@@ -55,27 +55,30 @@ The website also has a function to connect with discord. This is done to identif
 
 The website allows you to create teams to compete
 
-<img src="https://kjeh.fi/HZkEZ" data-canonical-src="https://kjeh.fi/HZkEZ" width="400"/>
+<img src="https://kjeh.fi/DTkcv" data-canonical-src="https://kjeh.fi/DTkcv" width="400"/>
+<img src="https://kjeh.fi/uJFAA" data-canonical-src="https://kjeh.fi/uJFAA" width="400"/>
 
 
 ### Invitation system
 
 Invitation system allows people to join different teams.
 
-<img src="https://kjeh.fi/urVfK" data-canonical-src="https://kjeh.fi/urVfK" width="400"/>
-
 ### Event system
 
 Event system allows admins to create events for the users to join.
 Settings include: type(single/multi), name, introduction, indepth text, starting & ending time
 
-<img src="https://kjeh.fi/AqeSb" data-canonical-src="https://kjeh.fi/AqeSb" width="400"/>
+<img src="https://kjeh.fi/FYLzo" data-canonical-src="https://kjeh.fi/FYLzo" width="400"/>
 
 ### Fully fledged permission system
 
 Website is running on a fully fledged permission system. This allows admins to have full control of what a user is allowed to do.
 
-<img src="https://kjeh.fi/HQFNW" data-canonical-src="https://kjeh.fi/HQFNW" width="400"/>
+<img src="https://kjeh.fi/CayTL" data-canonical-src="https://kjeh.fi/CayTL" width="400"/>
+
+### Dynamic stream overlay
+
+Allows broadcasters to use realtime overlays which can be controlled from the website. Overlay allows different colors, scores and custom names. These specifications can also be collected from the existing teams in the system.
 
 Upcoming features:
 
@@ -83,5 +86,4 @@ Upcoming features:
 - Dynamic privacy policy modification tool
 - More options to the social tab
 - Controlling bot to performs actions on the discord server from the web-ui 
-- Dynamic streaming overlay for stream with multiple scenes
 
