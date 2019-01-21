@@ -10,8 +10,8 @@ Unfortunately I'm not allowed to share the code, but here are the main higlights
 
 Before you take a look under the hood check out the website first and the sections that you can see as a visitor
 
-<img src="https://kjeh.fi/BUXWW" data-canonical-src="https://kjeh.fi/BUXWW" width="400"/>
 
+<img src="https://kjeh.fi/BUXWW" data-canonical-src="https://kjeh.fi/BUXWW" width="400"/>
 
 
 ### Login/Register system
