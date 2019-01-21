@@ -12,6 +12,7 @@ Before you take a look under the hood check out the website first and the sectio
 
 
 <img src="https://kjeh.fi/sUduT" data-canonical-src="https://kjeh.fi/sUduT" width="400"/>
+<img src="https://kjeh.fi/JWVkM" data-canonical-src="https://kjeh.fi/JWVkM" width="400"/>
 
 
 ### Login/Register system
